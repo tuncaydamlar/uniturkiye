@@ -1,0 +1,1238 @@
+{
+  "abdullah-gul-universitesi": {
+    "code": "abdullah-gul-universitesi",
+    "name": "ABDULLAH GÜL ÜNİVERSİTESİ",
+    "city": "KAYSERİ",
+    "type": "DEVLET"
+  },
+  "acibadem-mehmet-ali-aydinlar-universitesi": {
+    "code": "acibadem-mehmet-ali-aydinlar-universitesi",
+    "name": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "adana-alparslan-turkes-bilim-ve-teknoloji-universitesi": {
+    "code": "adana-alparslan-turkes-bilim-ve-teknoloji-universitesi",
+    "name": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "city": "ADANA",
+    "type": "DEVLET"
+  },
+  "adiyaman-universitesi": {
+    "code": "adiyaman-universitesi",
+    "name": "ADIYAMAN ÜNİVERSİTESİ",
+    "city": "ADIYAMAN",
+    "type": "DEVLET"
+  },
+  "afyon-kocatepe-universitesi": {
+    "code": "afyon-kocatepe-universitesi",
+    "name": "AFYON KOCATEPE ÜNİVERSİTESİ",
+    "city": "AFYONKARAHİSAR",
+    "type": "DEVLET"
+  },
+  "afyonkarahisar-saglik-bilimleri-universitesi": {
+    "code": "afyonkarahisar-saglik-bilimleri-universitesi",
+    "name": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+    "city": "AFYONKARAHİSAR",
+    "type": "DEVLET"
+  },
+  "agri-ibrahim-cecen-universitesi": {
+    "code": "agri-ibrahim-cecen-universitesi",
+    "name": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+    "city": "AĞRI",
+    "type": "DEVLET"
+  },
+  "akdeniz-universitesi": {
+    "code": "akdeniz-universitesi",
+    "name": "AKDENİZ ÜNİVERSİTESİ",
+    "city": "ANTALYA",
+    "type": "DEVLET"
+  },
+  "aksaray-universitesi": {
+    "code": "aksaray-universitesi",
+    "name": "AKSARAY ÜNİVERSİTESİ",
+    "city": "AKSARAY",
+    "type": "DEVLET"
+  },
+  "alanya-alaaddin-keykubat-universitesi": {
+    "code": "alanya-alaaddin-keykubat-universitesi",
+    "name": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ",
+    "city": "ANTALYA",
+    "type": "DEVLET"
+  },
+  "alanya-universitesi": {
+    "code": "alanya-universitesi",
+    "name": "ALANYA ÜNİVERSİTESİ",
+    "city": "ANTALYA",
+    "type": "VAKIF"
+  },
+  "altinbas-universitesi": {
+    "code": "altinbas-universitesi",
+    "name": "ALTINBAŞ ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "amasya-universitesi": {
+    "code": "amasya-universitesi",
+    "name": "AMASYA ÜNİVERSİTESİ",
+    "city": "AMASYA",
+    "type": "DEVLET"
+  },
+  "anadolu-universitesi": {
+    "code": "anadolu-universitesi",
+    "name": "ANADOLU ÜNİVERSİTESİ",
+    "city": "ESKİŞEHİR",
+    "type": "DEVLET"
+  },
+  "anka-teknoloji-universitesi": {
+    "code": "anka-teknoloji-universitesi",
+    "name": "ANKA TEKNOLOJİ ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "VAKIF"
+  },
+  "ankara-bilim-universitesi": {
+    "code": "ankara-bilim-universitesi",
+    "name": "ANKARA BİLİM ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "VAKIF"
+  },
+  "ankara-haci-bayram-veli-universitesi": {
+    "code": "ankara-haci-bayram-veli-universitesi",
+    "name": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "DEVLET"
+  },
+  "ankara-medipol-universitesi": {
+    "code": "ankara-medipol-universitesi",
+    "name": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "VAKIF"
+  },
+  "ankara-muzik-ve-guzel-sanatlar-universitesi": {
+    "code": "ankara-muzik-ve-guzel-sanatlar-universitesi",
+    "name": "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "DEVLET"
+  },
+  "ankara-sosyal-bilimler-universitesi": {
+    "code": "ankara-sosyal-bilimler-universitesi",
+    "name": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+    "city": "KIBRIS",
+    "type": "DEVLET"
+  },
+  "ankara-universitesi": {
+    "code": "ankara-universitesi",
+    "name": "ANKARA ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "DEVLET"
+  },
+  "ankara-yildirim-beyazit-universitesi": {
+    "code": "ankara-yildirim-beyazit-universitesi",
+    "name": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "DEVLET"
+  },
+  "antalya-belek-universitesi": {
+    "code": "antalya-belek-universitesi",
+    "name": "ANTALYA BELEK ÜNİVERSİTESİ",
+    "city": "ANTALYA",
+    "type": "VAKIF"
+  },
+  "antalya-bilim-universitesi": {
+    "code": "antalya-bilim-universitesi",
+    "name": "ANTALYA BİLİM ÜNİVERSİTESİ",
+    "city": "ANTALYA",
+    "type": "VAKIF"
+  },
+  "ardahan-universitesi": {
+    "code": "ardahan-universitesi",
+    "name": "ARDAHAN ÜNİVERSİTESİ",
+    "city": "ARDAHAN",
+    "type": "DEVLET"
+  },
+  "artvin-coruh-universitesi": {
+    "code": "artvin-coruh-universitesi",
+    "name": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+    "city": "ARTVİN",
+    "type": "DEVLET"
+  },
+  "atasehir-adiguzel-meslek-yuksekokulu": {
+    "code": "atasehir-adiguzel-meslek-yuksekokulu",
+    "name": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU",
+    "city": "İSTANBUL",
+    "type": "VAKIF   MYO"
+  },
+  "ataturk-universitesi": {
+    "code": "ataturk-universitesi",
+    "name": "ATATÜRK ÜNİVERSİTESİ",
+    "city": "ERZURUM",
+    "type": "DEVLET"
+  },
+  "atilim-universitesi": {
+    "code": "atilim-universitesi",
+    "name": "ATILIM ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "VAKIF"
+  },
+  "avrasya-universitesi": {
+    "code": "avrasya-universitesi",
+    "name": "AVRASYA ÜNİVERSİTESİ",
+    "city": "TRABZON",
+    "type": "VAKIF"
+  },
+  "aydin-adnan-menderes-universitesi": {
+    "code": "aydin-adnan-menderes-universitesi",
+    "name": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+    "city": "AYDIN",
+    "type": "DEVLET"
+  },
+  "bahcesehir-universitesi": {
+    "code": "bahcesehir-universitesi",
+    "name": "BAHÇEŞEHİR ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "balikesir-universitesi": {
+    "code": "balikesir-universitesi",
+    "name": "BALIKESİR ÜNİVERSİTESİ",
+    "city": "BALIKESİR",
+    "type": "DEVLET"
+  },
+  "bandirma-onyedi-eylul-universitesi": {
+    "code": "bandirma-onyedi-eylul-universitesi",
+    "name": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ",
+    "city": "BALIKESİR",
+    "type": "DEVLET"
+  },
+  "bartin-universitesi": {
+    "code": "bartin-universitesi",
+    "name": "BARTIN ÜNİVERSİTESİ",
+    "city": "BARTIN",
+    "type": "DEVLET"
+  },
+  "baskent-universitesi": {
+    "code": "baskent-universitesi",
+    "name": "BAŞKENT ÜNİVERSİTESİ",
+    "city": "ADANA",
+    "type": "VAKIF"
+  },
+  "batman-universitesi": {
+    "code": "batman-universitesi",
+    "name": "BATMAN ÜNİVERSİTESİ",
+    "city": "BATMAN",
+    "type": "DEVLET"
+  },
+  "bayburt-universitesi": {
+    "code": "bayburt-universitesi",
+    "name": "BAYBURT ÜNİVERSİTESİ",
+    "city": "BAYBURT",
+    "type": "DEVLET"
+  },
+  "beykoz-universitesi": {
+    "code": "beykoz-universitesi",
+    "name": "BEYKOZ ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "bezm-i-alem-vakif-universitesi": {
+    "code": "bezm-i-alem-vakif-universitesi",
+    "name": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "bilecik-seyh-edebali-universitesi": {
+    "code": "bilecik-seyh-edebali-universitesi",
+    "name": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+    "city": "BİLECİK",
+    "type": "DEVLET"
+  },
+  "bingol-universitesi": {
+    "code": "bingol-universitesi",
+    "name": "BİNGÖL ÜNİVERSİTESİ",
+    "city": "BİNGÖL",
+    "type": "DEVLET"
+  },
+  "biruni-universitesi": {
+    "code": "biruni-universitesi",
+    "name": "BİRUNİ ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "bitlis-eren-universitesi": {
+    "code": "bitlis-eren-universitesi",
+    "name": "BİTLİS EREN ÜNİVERSİTESİ",
+    "city": "BİTLİS",
+    "type": "DEVLET"
+  },
+  "bogazici-universitesi": {
+    "code": "bogazici-universitesi",
+    "name": "BOĞAZİÇİ ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "DEVLET"
+  },
+  "bolu-abant-izzet-baysal-universitesi": {
+    "code": "bolu-abant-izzet-baysal-universitesi",
+    "name": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+    "city": "BOLU",
+    "type": "DEVLET"
+  },
+  "burdur-mehmet-akif-ersoy-universitesi": {
+    "code": "burdur-mehmet-akif-ersoy-universitesi",
+    "name": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+    "city": "BURDUR",
+    "type": "DEVLET"
+  },
+  "bursa-teknik-universitesi": {
+    "code": "bursa-teknik-universitesi",
+    "name": "BURSA TEKNİK ÜNİVERSİTESİ",
+    "city": "BURSA",
+    "type": "DEVLET"
+  },
+  "bursa-uludag-universitesi": {
+    "code": "bursa-uludag-universitesi",
+    "name": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+    "city": "BURSA",
+    "type": "DEVLET"
+  },
+  "cag-universitesi": {
+    "code": "cag-universitesi",
+    "name": "ÇAĞ ÜNİVERSİTESİ",
+    "city": "MERSİN",
+    "type": "VAKIF"
+  },
+  "canakkale-onsekiz-mart-universitesi": {
+    "code": "canakkale-onsekiz-mart-universitesi",
+    "name": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+    "city": "ÇANAKKALE",
+    "type": "DEVLET"
+  },
+  "cankaya-universitesi": {
+    "code": "cankaya-universitesi",
+    "name": "ÇANKAYA ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "VAKIF"
+  },
+  "cankiri-karatekin-universitesi": {
+    "code": "cankiri-karatekin-universitesi",
+    "name": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+    "city": "ÇANKIRI",
+    "type": "DEVLET"
+  },
+  "cukurova-universitesi": {
+    "code": "cukurova-universitesi",
+    "name": "ÇUKUROVA ÜNİVERSİTESİ",
+    "city": "ADANA",
+    "type": "DEVLET"
+  },
+  "demiroglu-bilim-universitesi": {
+    "code": "demiroglu-bilim-universitesi",
+    "name": "DEMİROĞLU BİLİM ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "dicle-universitesi": {
+    "code": "dicle-universitesi",
+    "name": "DİCLE ÜNİVERSİTESİ",
+    "city": "DİYARBAKIR",
+    "type": "DEVLET"
+  },
+  "dogus-universitesi": {
+    "code": "dogus-universitesi",
+    "name": "DOĞUŞ ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "dokuz-eylul-universitesi": {
+    "code": "dokuz-eylul-universitesi",
+    "name": "DOKUZ EYLÜL ÜNİVERSİTESİ",
+    "city": "İZMİR",
+    "type": "DEVLET"
+  },
+  "duzce-universitesi": {
+    "code": "duzce-universitesi",
+    "name": "DÜZCE ÜNİVERSİTESİ",
+    "city": "DÜZCE",
+    "type": "DEVLET"
+  },
+  "ege-universitesi": {
+    "code": "ege-universitesi",
+    "name": "EGE ÜNİVERSİTESİ",
+    "city": "İZMİR",
+    "type": "DEVLET"
+  },
+  "erciyes-universitesi": {
+    "code": "erciyes-universitesi",
+    "name": "ERCİYES ÜNİVERSİTESİ",
+    "city": "KAYSERİ",
+    "type": "DEVLET"
+  },
+  "erzincan-binali-yildirim-universitesi": {
+    "code": "erzincan-binali-yildirim-universitesi",
+    "name": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+    "city": "ERZİNCAN",
+    "type": "DEVLET"
+  },
+  "erzurum-teknik-universitesi": {
+    "code": "erzurum-teknik-universitesi",
+    "name": "ERZURUM TEKNİK ÜNİVERSİTESİ",
+    "city": "ERZURUM",
+    "type": "DEVLET"
+  },
+  "eskisehir-osmangazi-universitesi": {
+    "code": "eskisehir-osmangazi-universitesi",
+    "name": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+    "city": "ESKİŞEHİR",
+    "type": "DEVLET"
+  },
+  "eskisehir-teknik-universitesi": {
+    "code": "eskisehir-teknik-universitesi",
+    "name": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+    "city": "ESKİŞEHİR",
+    "type": "DEVLET"
+  },
+  "fatih-sultan-mehmet-vakif-universitesi": {
+    "code": "fatih-sultan-mehmet-vakif-universitesi",
+    "name": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "fenerbahce-universitesi": {
+    "code": "fenerbahce-universitesi",
+    "name": "FENERBAHÇE ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "firat-universitesi": {
+    "code": "firat-universitesi",
+    "name": "FIRAT ÜNİVERSİTESİ",
+    "city": "ELAZIĞ",
+    "type": "DEVLET"
+  },
+  "galatasaray-universitesi": {
+    "code": "galatasaray-universitesi",
+    "name": "GALATASARAY ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "DEVLET"
+  },
+  "gazi-universitesi": {
+    "code": "gazi-universitesi",
+    "name": "GAZİ ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "DEVLET"
+  },
+  "gaziantep-islam-bilim-ve-teknoloji-universitesi": {
+    "code": "gaziantep-islam-bilim-ve-teknoloji-universitesi",
+    "name": "GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "city": "GAZİANTEP",
+    "type": "DEVLET"
+  },
+  "gaziantep-universitesi": {
+    "code": "gaziantep-universitesi",
+    "name": "GAZİANTEP ÜNİVERSİTESİ",
+    "city": "GAZİANTEP",
+    "type": "DEVLET"
+  },
+  "gebze-teknik-universitesi": {
+    "code": "gebze-teknik-universitesi",
+    "name": "GEBZE TEKNİK ÜNİVERSİTESİ",
+    "city": "KOCAELİ",
+    "type": "DEVLET"
+  },
+  "giresun-universitesi": {
+    "code": "giresun-universitesi",
+    "name": "GİRESUN ÜNİVERSİTESİ",
+    "city": "GİRESUN",
+    "type": "DEVLET"
+  },
+  "gumushane-universitesi": {
+    "code": "gumushane-universitesi",
+    "name": "GÜMÜŞHANE ÜNİVERSİTESİ",
+    "city": "GÜMÜŞHANE",
+    "type": "DEVLET"
+  },
+  "hacettepe-universitesi": {
+    "code": "hacettepe-universitesi",
+    "name": "HACETTEPE ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "DEVLET"
+  },
+  "hakkari-universitesi": {
+    "code": "hakkari-universitesi",
+    "name": "HAKKARİ ÜNİVERSİTESİ",
+    "city": "HAKKARİ",
+    "type": "DEVLET"
+  },
+  "halic-universitesi": {
+    "code": "halic-universitesi",
+    "name": "HALİÇ ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "harran-universitesi": {
+    "code": "harran-universitesi",
+    "name": "HARRAN ÜNİVERSİTESİ",
+    "city": "ŞANLIURFA",
+    "type": "DEVLET"
+  },
+  "hasan-kalyoncu-universitesi": {
+    "code": "hasan-kalyoncu-universitesi",
+    "name": "HASAN KALYONCU ÜNİVERSİTESİ",
+    "city": "GAZİANTEP",
+    "type": "VAKIF"
+  },
+  "hatay-mustafa-kemal-universitesi": {
+    "code": "hatay-mustafa-kemal-universitesi",
+    "name": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+    "city": "HATAY",
+    "type": "DEVLET"
+  },
+  "hitit-universitesi": {
+    "code": "hitit-universitesi",
+    "name": "HİTİT ÜNİVERSİTESİ",
+    "city": "ÇORUM",
+    "type": "DEVLET"
+  },
+  "ibn-haldun-universitesi": {
+    "code": "ibn-haldun-universitesi",
+    "name": "İBN HALDUN ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "igdir-universitesi": {
+    "code": "igdir-universitesi",
+    "name": "IĞDIR ÜNİVERSİTESİ",
+    "city": "IĞDIR",
+    "type": "DEVLET"
+  },
+  "ihsan-dogramaci-bilkent-universitesi": {
+    "code": "ihsan-dogramaci-bilkent-universitesi",
+    "name": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "VAKIF"
+  },
+  "inonu-universitesi": {
+    "code": "inonu-universitesi",
+    "name": "İNÖNÜ ÜNİVERSİTESİ",
+    "city": "MALATYA",
+    "type": "DEVLET"
+  },
+  "isik-universitesi": {
+    "code": "isik-universitesi",
+    "name": "IŞIK ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "iskenderun-teknik-universitesi": {
+    "code": "iskenderun-teknik-universitesi",
+    "name": "İSKENDERUN TEKNİK ÜNİVERSİTESİ",
+    "city": "HATAY",
+    "type": "DEVLET"
+  },
+  "isparta-uygulamali-bilimler-universitesi": {
+    "code": "isparta-uygulamali-bilimler-universitesi",
+    "name": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+    "city": "ISPARTA",
+    "type": "DEVLET"
+  },
+  "istanbul-29-mayis-universitesi": {
+    "code": "istanbul-29-mayis-universitesi",
+    "name": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-arel-universitesi": {
+    "code": "istanbul-arel-universitesi",
+    "name": "İSTANBUL AREL ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-atlas-universitesi": {
+    "code": "istanbul-atlas-universitesi",
+    "name": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-aydin-universitesi": {
+    "code": "istanbul-aydin-universitesi",
+    "name": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-beykent-universitesi": {
+    "code": "istanbul-beykent-universitesi",
+    "name": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-bilgi-universitesi": {
+    "code": "istanbul-bilgi-universitesi",
+    "name": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-esenyurt-universitesi": {
+    "code": "istanbul-esenyurt-universitesi",
+    "name": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-galata-universitesi": {
+    "code": "istanbul-galata-universitesi",
+    "name": "İSTANBUL GALATA ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-gedik-universitesi": {
+    "code": "istanbul-gedik-universitesi",
+    "name": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-gelisim-universitesi": {
+    "code": "istanbul-gelisim-universitesi",
+    "name": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-kent-universitesi": {
+    "code": "istanbul-kent-universitesi",
+    "name": "İSTANBUL KENT ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-kultur-universitesi": {
+    "code": "istanbul-kultur-universitesi",
+    "name": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-medeniyet-universitesi": {
+    "code": "istanbul-medeniyet-universitesi",
+    "name": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "DEVLET"
+  },
+  "istanbul-medipol-universitesi": {
+    "code": "istanbul-medipol-universitesi",
+    "name": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-nisantasi-universitesi": {
+    "code": "istanbul-nisantasi-universitesi",
+    "name": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-okan-universitesi": {
+    "code": "istanbul-okan-universitesi",
+    "name": "İSTANBUL OKAN ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-rumeli-universitesi": {
+    "code": "istanbul-rumeli-universitesi",
+    "name": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-sabahattin-zaim-universitesi": {
+    "code": "istanbul-sabahattin-zaim-universitesi",
+    "name": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-saglik-ve-sosyal-bilimler-meslek-yuksekokulu": {
+    "code": "istanbul-saglik-ve-sosyal-bilimler-meslek-yuksekokulu",
+    "name": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+    "city": "İSTANBUL",
+    "type": "VAKIF   MYO"
+  },
+  "istanbul-saglik-ve-teknoloji-universitesi": {
+    "code": "istanbul-saglik-ve-teknoloji-universitesi",
+    "name": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-sisli-meslek-yuksekokulu": {
+    "code": "istanbul-sisli-meslek-yuksekokulu",
+    "name": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+    "city": "İSTANBUL",
+    "type": "VAKIF   MYO"
+  },
+  "istanbul-teknik-universitesi": {
+    "code": "istanbul-teknik-universitesi",
+    "name": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "DEVLET"
+  },
+  "istanbul-ticaret-universitesi": {
+    "code": "istanbul-ticaret-universitesi",
+    "name": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-topkapi-universitesi": {
+    "code": "istanbul-topkapi-universitesi",
+    "name": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istanbul-universitesi": {
+    "code": "istanbul-universitesi",
+    "name": "İSTANBUL ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "DEVLET"
+  },
+  "istanbul-universitesi-cerrahpasa": {
+    "code": "istanbul-universitesi-cerrahpasa",
+    "name": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+    "city": "İSTANBUL",
+    "type": "DEVLET"
+  },
+  "istanbul-yeni-yuzyil-universitesi": {
+    "code": "istanbul-yeni-yuzyil-universitesi",
+    "name": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "istinye-universitesi": {
+    "code": "istinye-universitesi",
+    "name": "İSTİNYE ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "izmir-bakircay-universitesi": {
+    "code": "izmir-bakircay-universitesi",
+    "name": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+    "city": "İZMİR",
+    "type": "DEVLET"
+  },
+  "izmir-demokrasi-universitesi": {
+    "code": "izmir-demokrasi-universitesi",
+    "name": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+    "city": "İZMİR",
+    "type": "DEVLET"
+  },
+  "izmir-ekonomi-universitesi": {
+    "code": "izmir-ekonomi-universitesi",
+    "name": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    "city": "İZMİR",
+    "type": "VAKIF"
+  },
+  "izmir-katip-celebi-universitesi": {
+    "code": "izmir-katip-celebi-universitesi",
+    "name": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+    "city": "İZMİR",
+    "type": "DEVLET"
+  },
+  "izmir-kavram-meslek-yuksekokulu": {
+    "code": "izmir-kavram-meslek-yuksekokulu",
+    "name": "İZMİR KAVRAM MESLEK YÜKSEKOKULU",
+    "city": "İZMİR",
+    "type": "VAKIF   MYO"
+  },
+  "izmir-tinaztepe-universitesi": {
+    "code": "izmir-tinaztepe-universitesi",
+    "name": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+    "city": "İZMİR",
+    "type": "VAKIF"
+  },
+  "izmir-yuksek-teknoloji-enstitusu": {
+    "code": "izmir-yuksek-teknoloji-enstitusu",
+    "name": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    "city": "İZMİR",
+    "type": "DEVLET"
+  },
+  "kadir-has-universitesi": {
+    "code": "kadir-has-universitesi",
+    "name": "KADİR HAS ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "kafkas-universitesi": {
+    "code": "kafkas-universitesi",
+    "name": "KAFKAS ÜNİVERSİTESİ",
+    "city": "KARS",
+    "type": "DEVLET"
+  },
+  "kahramanmaras-istiklal-universitesi": {
+    "code": "kahramanmaras-istiklal-universitesi",
+    "name": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
+    "city": "KAHRAMANMARAŞ",
+    "type": "DEVLET"
+  },
+  "kahramanmaras-sutcu-imam-universitesi": {
+    "code": "kahramanmaras-sutcu-imam-universitesi",
+    "name": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+    "city": "KAHRAMANMARAŞ",
+    "type": "DEVLET"
+  },
+  "kapadokya-universitesi": {
+    "code": "kapadokya-universitesi",
+    "name": "KAPADOKYA ÜNİVERSİTESİ",
+    "city": "NEVŞEHİR",
+    "type": "VAKIF"
+  },
+  "karabuk-universitesi": {
+    "code": "karabuk-universitesi",
+    "name": "KARABÜK ÜNİVERSİTESİ",
+    "city": "KARABÜK",
+    "type": "DEVLET"
+  },
+  "karadeniz-teknik-universitesi": {
+    "code": "karadeniz-teknik-universitesi",
+    "name": "KARADENİZ TEKNİK ÜNİVERSİTESİ",
+    "city": "TRABZON",
+    "type": "DEVLET"
+  },
+  "karamanoglu-mehmetbey-universitesi": {
+    "code": "karamanoglu-mehmetbey-universitesi",
+    "name": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ",
+    "city": "KARAMAN",
+    "type": "DEVLET"
+  },
+  "kastamonu-universitesi": {
+    "code": "kastamonu-universitesi",
+    "name": "KASTAMONU ÜNİVERSİTESİ",
+    "city": "KASTAMONU",
+    "type": "DEVLET"
+  },
+  "kayseri-universitesi": {
+    "code": "kayseri-universitesi",
+    "name": "KAYSERİ ÜNİVERSİTESİ",
+    "city": "KAYSERİ",
+    "type": "DEVLET"
+  },
+  "kilis-7-aralik-universitesi": {
+    "code": "kilis-7-aralik-universitesi",
+    "name": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+    "city": "KİLİS",
+    "type": "DEVLET"
+  },
+  "kirikkale-universitesi": {
+    "code": "kirikkale-universitesi",
+    "name": "KIRIKKALE ÜNİVERSİTESİ",
+    "city": "KIRIKKALE",
+    "type": "DEVLET"
+  },
+  "kirklareli-universitesi": {
+    "code": "kirklareli-universitesi",
+    "name": "KIRKLARELİ ÜNİVERSİTESİ",
+    "city": "KIRKLARELİ",
+    "type": "DEVLET"
+  },
+  "kirsehir-ahi-evran-universitesi": {
+    "code": "kirsehir-ahi-evran-universitesi",
+    "name": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+    "city": "KIRŞEHİR",
+    "type": "DEVLET"
+  },
+  "koc-universitesi": {
+    "code": "koc-universitesi",
+    "name": "KOÇ ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "kocaeli-saglik-ve-teknoloji-universitesi": {
+    "code": "kocaeli-saglik-ve-teknoloji-universitesi",
+    "name": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "city": "KOCAELİ",
+    "type": "VAKIF"
+  },
+  "kocaeli-universitesi": {
+    "code": "kocaeli-universitesi",
+    "name": "KOCAELİ ÜNİVERSİTESİ",
+    "city": "KOCAELİ",
+    "type": "DEVLET"
+  },
+  "konya-gida-ve-tarim-universitesi": {
+    "code": "konya-gida-ve-tarim-universitesi",
+    "name": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+    "city": "KONYA",
+    "type": "VAKIF"
+  },
+  "konya-teknik-universitesi": {
+    "code": "konya-teknik-universitesi",
+    "name": "KONYA TEKNİK ÜNİVERSİTESİ",
+    "city": "KONYA",
+    "type": "DEVLET"
+  },
+  "kto-karatay-universitesi": {
+    "code": "kto-karatay-universitesi",
+    "name": "KTO KARATAY ÜNİVERSİTESİ",
+    "city": "KONYA",
+    "type": "VAKIF"
+  },
+  "kutahya-dumlupinar-universitesi": {
+    "code": "kutahya-dumlupinar-universitesi",
+    "name": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+    "city": "KÜTAHYA",
+    "type": "DEVLET"
+  },
+  "kutahya-saglik-bilimleri-universitesi": {
+    "code": "kutahya-saglik-bilimleri-universitesi",
+    "name": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+    "city": "KÜTAHYA",
+    "type": "DEVLET"
+  },
+  "lokman-hekim-universitesi": {
+    "code": "lokman-hekim-universitesi",
+    "name": "LOKMAN HEKİM ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "VAKIF"
+  },
+  "malatya-turgut-ozal-universitesi": {
+    "code": "malatya-turgut-ozal-universitesi",
+    "name": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+    "city": "MALATYA",
+    "type": "DEVLET"
+  },
+  "maltepe-universitesi": {
+    "code": "maltepe-universitesi",
+    "name": "MALTEPE ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "manisa-celal-bayar-universitesi": {
+    "code": "manisa-celal-bayar-universitesi",
+    "name": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+    "city": "MANİSA",
+    "type": "DEVLET"
+  },
+  "mardin-artuklu-universitesi": {
+    "code": "mardin-artuklu-universitesi",
+    "name": "MARDİN ARTUKLU ÜNİVERSİTESİ",
+    "city": "MARDİN",
+    "type": "DEVLET"
+  },
+  "marmara-universitesi": {
+    "code": "marmara-universitesi",
+    "name": "MARMARA ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "DEVLET"
+  },
+  "mef-universitesi": {
+    "code": "mef-universitesi",
+    "name": "MEF ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "mersin-universitesi": {
+    "code": "mersin-universitesi",
+    "name": "MERSİN ÜNİVERSİTESİ",
+    "city": "MERSİN",
+    "type": "DEVLET"
+  },
+  "mimar-sinan-guzel-sanatlar-universitesi": {
+    "code": "mimar-sinan-guzel-sanatlar-universitesi",
+    "name": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "DEVLET"
+  },
+  "mudanya-universitesi": {
+    "code": "mudanya-universitesi",
+    "name": "MUDANYA ÜNİVERSİTESİ",
+    "city": "BURSA",
+    "type": "VAKIF"
+  },
+  "mugla-sitki-kocman-universitesi": {
+    "code": "mugla-sitki-kocman-universitesi",
+    "name": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+    "city": "MUĞLA",
+    "type": "DEVLET"
+  },
+  "munzur-universitesi": {
+    "code": "munzur-universitesi",
+    "name": "MUNZUR ÜNİVERSİTESİ",
+    "city": "TUNCELİ",
+    "type": "DEVLET"
+  },
+  "mus-alparslan-universitesi": {
+    "code": "mus-alparslan-universitesi",
+    "name": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+    "city": "MUŞ",
+    "type": "DEVLET"
+  },
+  "necmettin-erbakan-universitesi": {
+    "code": "necmettin-erbakan-universitesi",
+    "name": "NECMETTİN ERBAKAN ÜNİVERSİTESİ",
+    "city": "KONYA",
+    "type": "DEVLET"
+  },
+  "nevsehir-haci-bektas-veli-universitesi": {
+    "code": "nevsehir-haci-bektas-veli-universitesi",
+    "name": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+    "city": "NEVŞEHİR",
+    "type": "DEVLET"
+  },
+  "nigde-omer-halisdemir-universitesi": {
+    "code": "nigde-omer-halisdemir-universitesi",
+    "name": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+    "city": "NİĞDE",
+    "type": "DEVLET"
+  },
+  "nuh-naci-yazgan-universitesi": {
+    "code": "nuh-naci-yazgan-universitesi",
+    "name": "NUH NACİ YAZGAN ÜNİVERSİTESİ",
+    "city": "KAYSERİ",
+    "type": "VAKIF"
+  },
+  "ondokuz-mayis-universitesi": {
+    "code": "ondokuz-mayis-universitesi",
+    "name": "ONDOKUZ MAYIS ÜNİVERSİTESİ",
+    "city": "SAMSUN",
+    "type": "DEVLET"
+  },
+  "ordu-universitesi": {
+    "code": "ordu-universitesi",
+    "name": "ORDU ÜNİVERSİTESİ",
+    "city": "ORDU",
+    "type": "DEVLET"
+  },
+  "orta-dogu-teknik-universitesi": {
+    "code": "orta-dogu-teknik-universitesi",
+    "name": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "DEVLET"
+  },
+  "osmaniye-korkut-ata-universitesi": {
+    "code": "osmaniye-korkut-ata-universitesi",
+    "name": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+    "city": "OSMANİYE",
+    "type": "DEVLET"
+  },
+  "ostim-teknik-universitesi": {
+    "code": "ostim-teknik-universitesi",
+    "name": "OSTİM TEKNİK ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "VAKIF"
+  },
+  "ozyegin-universitesi": {
+    "code": "ozyegin-universitesi",
+    "name": "ÖZYEĞİN ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "pamukkale-universitesi": {
+    "code": "pamukkale-universitesi",
+    "name": "PAMUKKALE ÜNİVERSİTESİ",
+    "city": "DENİZLİ",
+    "type": "DEVLET"
+  },
+  "piri-reis-universitesi": {
+    "code": "piri-reis-universitesi",
+    "name": "PİRİ REİS ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "recep-tayyip-erdogan-universitesi": {
+    "code": "recep-tayyip-erdogan-universitesi",
+    "name": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ",
+    "city": "RİZE",
+    "type": "DEVLET"
+  },
+  "sabanci-universitesi": {
+    "code": "sabanci-universitesi",
+    "name": "SABANCI ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "saglik-bilimleri-universitesi": {
+    "code": "saglik-bilimleri-universitesi",
+    "name": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+    "city": "ADANA",
+    "type": "DEVLET"
+  },
+  "sakarya-universitesi": {
+    "code": "sakarya-universitesi",
+    "name": "SAKARYA ÜNİVERSİTESİ",
+    "city": "SAKARYA",
+    "type": "DEVLET"
+  },
+  "sakarya-uygulamali-bilimler-universitesi": {
+    "code": "sakarya-uygulamali-bilimler-universitesi",
+    "name": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+    "city": "SAKARYA",
+    "type": "DEVLET"
+  },
+  "samsun-universitesi": {
+    "code": "samsun-universitesi",
+    "name": "SAMSUN ÜNİVERSİTESİ",
+    "city": "SAMSUN",
+    "type": "DEVLET"
+  },
+  "sanko-universitesi": {
+    "code": "sanko-universitesi",
+    "name": "SANKO ÜNİVERSİTESİ",
+    "city": "GAZİANTEP",
+    "type": "VAKIF"
+  },
+  "selcuk-universitesi": {
+    "code": "selcuk-universitesi",
+    "name": "SELÇUK ÜNİVERSİTESİ",
+    "city": "KONYA",
+    "type": "DEVLET"
+  },
+  "siirt-universitesi": {
+    "code": "siirt-universitesi",
+    "name": "SİİRT ÜNİVERSİTESİ",
+    "city": "SİİRT",
+    "type": "DEVLET"
+  },
+  "sinop-universitesi": {
+    "code": "sinop-universitesi",
+    "name": "SİNOP ÜNİVERSİTESİ",
+    "city": "SİNOP",
+    "type": "DEVLET"
+  },
+  "sirnak-universitesi": {
+    "code": "sirnak-universitesi",
+    "name": "ŞIRNAK ÜNİVERSİTESİ",
+    "city": "ŞIRNAK",
+    "type": "DEVLET"
+  },
+  "sivas-bilim-ve-teknoloji-universitesi": {
+    "code": "sivas-bilim-ve-teknoloji-universitesi",
+    "name": "SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "city": "SİVAS",
+    "type": "DEVLET"
+  },
+  "sivas-cumhuriyet-universitesi": {
+    "code": "sivas-cumhuriyet-universitesi",
+    "name": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+    "city": "SİVAS",
+    "type": "DEVLET"
+  },
+  "suleyman-demirel-universitesi": {
+    "code": "suleyman-demirel-universitesi",
+    "name": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ",
+    "city": "ISPARTA",
+    "type": "DEVLET"
+  },
+  "tarsus-universitesi": {
+    "code": "tarsus-universitesi",
+    "name": "TARSUS ÜNİVERSİTESİ",
+    "city": "MERSİN",
+    "type": "DEVLET"
+  },
+  "ted-universitesi": {
+    "code": "ted-universitesi",
+    "name": "TED ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "VAKIF"
+  },
+  "tekirdag-namik-kemal-universitesi": {
+    "code": "tekirdag-namik-kemal-universitesi",
+    "name": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+    "city": "TEKİRDAĞ",
+    "type": "DEVLET"
+  },
+  "tobb-ekonomi-ve-teknoloji-universitesi": {
+    "code": "tobb-ekonomi-ve-teknoloji-universitesi",
+    "name": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "VAKIF"
+  },
+  "tokat-gaziosmanpasa-universitesi": {
+    "code": "tokat-gaziosmanpasa-universitesi",
+    "name": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+    "city": "TOKAT",
+    "type": "DEVLET"
+  },
+  "toros-universitesi": {
+    "code": "toros-universitesi",
+    "name": "TOROS ÜNİVERSİTESİ",
+    "city": "MERSİN",
+    "type": "VAKIF"
+  },
+  "trabzon-universitesi": {
+    "code": "trabzon-universitesi",
+    "name": "TRABZON ÜNİVERSİTESİ",
+    "city": "TRABZON",
+    "type": "DEVLET"
+  },
+  "trakya-universitesi": {
+    "code": "trakya-universitesi",
+    "name": "TRAKYA ÜNİVERSİTESİ",
+    "city": "EDİRNE",
+    "type": "DEVLET"
+  },
+  "turk-alman-universitesi": {
+    "code": "turk-alman-universitesi",
+    "name": "TÜRK-ALMAN ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "DEVLET"
+  },
+  "turk-hava-kurumu-universitesi": {
+    "code": "turk-hava-kurumu-universitesi",
+    "name": "TÜRK HAVA KURUMU ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "VAKIF"
+  },
+  "ufuk-universitesi": {
+    "code": "ufuk-universitesi",
+    "name": "UFUK ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "VAKIF"
+  },
+  "usak-universitesi": {
+    "code": "usak-universitesi",
+    "name": "UŞAK ÜNİVERSİTESİ",
+    "city": "UŞAK",
+    "type": "DEVLET"
+  },
+  "uskudar-universitesi": {
+    "code": "uskudar-universitesi",
+    "name": "ÜSKÜDAR ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "van-yuzuncu-yil-universitesi": {
+    "code": "van-yuzuncu-yil-universitesi",
+    "name": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+    "city": "VAN",
+    "type": "DEVLET"
+  },
+  "yalova-universitesi": {
+    "code": "yalova-universitesi",
+    "name": "YALOVA ÜNİVERSİTESİ",
+    "city": "YALOVA",
+    "type": "DEVLET"
+  },
+  "yasar-universitesi": {
+    "code": "yasar-universitesi",
+    "name": "YAŞAR ÜNİVERSİTESİ",
+    "city": "İZMİR",
+    "type": "VAKIF"
+  },
+  "yeditepe-universitesi": {
+    "code": "yeditepe-universitesi",
+    "name": "YEDİTEPE ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "VAKIF"
+  },
+  "yildiz-teknik-universitesi": {
+    "code": "yildiz-teknik-universitesi",
+    "name": "YILDIZ TEKNİK ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "type": "DEVLET"
+  },
+  "yozgat-bozok-universitesi": {
+    "code": "yozgat-bozok-universitesi",
+    "name": "YOZGAT BOZOK ÜNİVERSİTESİ",
+    "city": "YOZGAT",
+    "type": "DEVLET"
+  },
+  "yuksek-ihtisas-universitesi": {
+    "code": "yuksek-ihtisas-universitesi",
+    "name": "YÜKSEK İHTİSAS ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "type": "VAKIF"
+  },
+  "zonguldak-bulent-ecevit-universitesi": {
+    "code": "zonguldak-bulent-ecevit-universitesi",
+    "name": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+    "city": "ZONGULDAK",
+    "type": "DEVLET"
+  }
+}
