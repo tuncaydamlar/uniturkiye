@@ -29,7 +29,6 @@ type Faculty struct {
 	Name           string `json:"name"`
 }
 type Department struct {
-	Code           string `json:"code"`
 	UniversityCode string `json:"universityCode"`
 	FacultyCode    string `json:"facultyCode"`
 	Name           string `json:"name"`
@@ -95,7 +94,6 @@ func (p *Parser) processRows(rows [][]string) (map[string]University, map[string
 
 		universityCode := slug.Make(universityName)
 		facultyCode := slug.Make(facultyName)
-		departmentCode := slug.Make(departmentName)
 
 		// Populate universities map
 
@@ -109,16 +107,10 @@ func (p *Parser) processRows(rows [][]string) (map[string]University, map[string
 		}
 
 		// Populate faculty map
-
-		if universityCode == "biruni-universitesi" {
-			fmt.Println("1")
-			fmt.Println(universityCode)
-
-		}
 		_, ok := facultyMap[facultyCode+"-"+universityCode]
 		if !ok {
 			facultyMap[facultyCode+"-"+universityCode] = Faculty{
-				Code:           facultyCode,
+				Code:           facultyCode + "-" + universityCode,
 				Name:           facultyName,
 				UniversityCode: universityCode,
 			}
@@ -126,9 +118,8 @@ func (p *Parser) processRows(rows [][]string) (map[string]University, map[string
 
 		// Populate department array
 		departmentArr = append(departmentArr, Department{
-			Code:           departmentCode,
 			UniversityCode: universityCode,
-			FacultyCode:    facultyCode,
+			FacultyCode:    facultyCode + "-" + universityCode,
 			Name:           departmentName,
 		})
 	}
@@ -182,6 +173,7 @@ func writeFacultySql(fileName string, faculties map[string]Faculty) error {
 		code TEXT,
 		name TEXT,
 		university_code TEXT,
+		UNIQUE(code,university_code),
 		FOREIGN KEY (university_code) REFERENCES universities(code)
 	);
 	INSERT INTO faculties (code, name, university_code) VALUES`
@@ -204,19 +196,17 @@ func writeDepartmentSql(fileName string, departments []Department) error {
 	sqlHead := `
 	CREATE TABLE departments (
 		id SERIAL,
-		code TEXT,
 		name TEXT,
 		university_code TEXT,
 		faculty_code TEXT,
-		UNIQUE(code),
 		FOREIGN KEY (university_code) REFERENCES universities(code),
 		FOREIGN KEY (faculty_code) REFERENCES faculties(code)
 	);
-	INSERT INTO departments (code, university_code, faculty_code, name) VALUES`
+	INSERT INTO departments ( university_code, faculty_code, name) VALUES`
 
 	var values []string
 	for _, d := range departments {
-		values = append(values, fmt.Sprintf("('%s', '%s', '%s', '%s')", d.Code, d.UniversityCode, d.FacultyCode, d.Name))
+		values = append(values, fmt.Sprintf("('%s', '%s', '%s')", d.UniversityCode, d.FacultyCode, d.Name))
 	}
 
 	sql := sqlHead + "\n" + strings.Join(values, ",\n") + ";\n"
