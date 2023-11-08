@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"log"
+	"os"
 	"strings"
 
 	"github.com/gosimple/slug"
@@ -46,7 +47,6 @@ func (p *Parser) parse() error {
 	if err != nil {
 		return fmt.Errorf("failed to open file: %w", err)
 	}
-	defer f.Close()
 
 	rows, err := f.GetRows(p.SheetName)
 	if err != nil {
@@ -83,8 +83,7 @@ func (p *Parser) processRows(rows [][]string) (map[string]University, map[string
 	var departmentArr []Department
 
 	for i, row := range rows {
-		// Skip the header row or any row that does not have enough columns.
-		if i == 0 || len(row) < 6 {
+		if i == 0 {
 			continue
 		}
 
@@ -99,6 +98,7 @@ func (p *Parser) processRows(rows [][]string) (map[string]University, map[string
 		departmentCode := slug.Make(departmentName)
 
 		// Populate universities map
+
 		if _, exists := universitiesMap[universityCode]; !exists {
 			universitiesMap[universityCode] = University{
 				Code: universityCode,
@@ -109,8 +109,15 @@ func (p *Parser) processRows(rows [][]string) (map[string]University, map[string
 		}
 
 		// Populate faculty map
-		if _, exists := facultyMap[facultyCode]; !exists {
-			facultyMap[facultyCode] = Faculty{
+
+		if universityCode == "biruni-universitesi" {
+			fmt.Println("1")
+			fmt.Println(universityCode)
+
+		}
+		_, ok := facultyMap[facultyCode+"-"+universityCode]
+		if !ok {
+			facultyMap[facultyCode+"-"+universityCode] = Faculty{
 				Code:           facultyCode,
 				Name:           facultyName,
 				UniversityCode: universityCode,
@@ -135,7 +142,7 @@ func writeJSON(fileName string, v interface{}) error {
 		return fmt.Errorf("failed to marshal data: %w", err)
 	}
 
-	if err := ioutil.WriteFile(fileName, data, 0644); err != nil {
+	if err := os.WriteFile(fileName, data, 0644); err != nil {
 		return fmt.Errorf("failed to write file %s: %w", fileName, err)
 	}
 
@@ -195,13 +202,15 @@ func writeFacultySql(fileName string, faculties map[string]Faculty) error {
 
 func writeDepartmentSql(fileName string, departments []Department) error {
 	sqlHead := `
-	CREATE TABLE faculties (
+	CREATE TABLE departments (
 		id SERIAL,
 		code TEXT,
 		name TEXT,
 		university_code TEXT,
+		faculty_code TEXT,
 		UNIQUE(code),
-		FOREIGN KEY (university_code) REFERENCES universities(code)
+		FOREIGN KEY (university_code) REFERENCES universities(code),
+		FOREIGN KEY (faculty_code) REFERENCES faculties(code)
 	);
 	INSERT INTO departments (code, university_code, faculty_code, name) VALUES`
 

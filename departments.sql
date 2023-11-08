@@ -1,11 +1,13 @@
 
-	CREATE TABLE faculties (
+	CREATE TABLE departments (
 		id SERIAL,
 		code TEXT,
 		name TEXT,
 		university_code TEXT,
+		faculty_code TEXT,
 		UNIQUE(code),
-		FOREIGN KEY (university_code) REFERENCES universities(code)
+		FOREIGN KEY (university_code) REFERENCES universities(code),
+		FOREIGN KEY (faculty_code) REFERENCES faculties(code)
 	);
 	INSERT INTO departments (code, university_code, faculty_code, name) VALUES
 ('matematik-bolumu', 'abdullah-gul-universitesi', 'bilgisayar-bilimleri-fakultesi', 'MATEMATİK BÖLÜMÜ'),
