@@ -1,4 +1,4 @@
-# Üniversite - Fakülte - Bölüm Listesi
+# Üniversite - Fakülte - Bölüm Listesi JSON + SQL 
 
 Bu GitHub deposu, Yükseköğretim Kurulu (YÖK) üzerinden alınan üniversite, fakülte ve bölüm listesini JSON ve SQL formatlarına dönüştürmek için kullanılan bir araç içerir. Bu aracı kullanarak YÖK verilerini kolayca işleyebilir ve istediğiniz veri formatını oluşturabilirsiniz.
 
